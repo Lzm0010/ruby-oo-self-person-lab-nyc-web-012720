@@ -54,7 +54,7 @@ class Person
       friend.happiness -= 1
       return "blah blah partisan blah lobbyist"
     elsif topic == "weather"
-      @happiness += 1
+      self.happiness += 1
       friend.happiness += 1
       return "blah blah sun blah rain"
     else
