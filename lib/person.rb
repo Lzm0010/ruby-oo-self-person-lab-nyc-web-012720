@@ -50,6 +50,7 @@ class Person
       friend.happiness_points += 1
       return "blah blah sun blah rain"
     else
+      return "blah blah blah blah blah"
   end
 
 end
