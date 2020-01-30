@@ -11,6 +11,8 @@ class Person
   end
   
   def happiness=(happiness)
+    
+  end
   
   def clean?
     @hygiene >= 7
