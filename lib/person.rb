@@ -41,7 +41,10 @@ class Person
   end
   
   def start_conversation(person, topic)
-    
+    if topic == "politics"
+      @happiness_points -= 1
+    friend.happiness_points -= 1
+      
   end
 
 end
