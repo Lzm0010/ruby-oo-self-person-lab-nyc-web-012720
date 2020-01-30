@@ -10,5 +10,7 @@ class Person
     @hygiene_points = 8
   end
   
-  
+  def clean?
+    
+  end
 end
