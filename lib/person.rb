@@ -24,4 +24,6 @@ class Person
   end
   
   def take_bath
+    @hygiene_points += 4
+  end
 end
