@@ -32,6 +32,8 @@ class Person
   end
 
   def call_friend(friend)
-end
+  end
+  
+  def start_conversation(person, topic)
 
 end
