@@ -11,7 +11,7 @@ class Person
   end
   
   def happiness=(happiness)
-    @happiness = h
+    @happiness = [happiness, 0, 10].sort[1]
   end
   
   def hygiene=(hygiene)
