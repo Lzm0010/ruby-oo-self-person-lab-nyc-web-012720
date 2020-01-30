@@ -14,7 +14,7 @@ class Person
     
   end
   
-  def hygiene
+  def hygiene=(hygiene)
   
   def clean?
     @hygiene >= 7
