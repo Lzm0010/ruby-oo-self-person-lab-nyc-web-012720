@@ -6,8 +6,8 @@ class Person
   def initialize(name)
     @name = name
     @bank_account = 25
-    @happiness_points = 8
-    @hygiene_points = 8
+    @happiness = 8
+    @hygiene = 8
   end
   
   def clean?
