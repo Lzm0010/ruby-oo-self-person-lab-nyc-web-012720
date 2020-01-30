@@ -35,7 +35,7 @@ class Person
   end
 
   def call_friend(friend)
-    
+    @happiness_points += 3
   end
   
   def start_conversation(person, topic)
