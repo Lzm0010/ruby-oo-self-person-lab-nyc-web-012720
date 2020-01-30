@@ -31,6 +31,7 @@ class Person
   def work_out
     @happiness_points += 2
     @hygiene_points -= 3
+    "another one bites the dust"
   end
 
   def call_friend(friend)
