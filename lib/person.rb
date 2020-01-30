@@ -13,4 +13,8 @@ class Person
   def clean?
     
   end
+  
+  def happy?
+    
+  end
 end
