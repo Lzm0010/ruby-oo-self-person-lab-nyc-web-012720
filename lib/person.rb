@@ -15,6 +15,6 @@ class Person
   end
   
   def happy?
-    
+    @happiness_points >= 7
   end
 end
