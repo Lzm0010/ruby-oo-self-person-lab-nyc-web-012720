@@ -11,7 +11,7 @@ class Person
   end
   
   def clean?
-    @hygiene_points >= 7
+    @hygiene >= 7
   end
   
   def happy?
