@@ -15,7 +15,7 @@ class Person
   end
   
   def hygiene=(hygiene)
-    
+    @hygiene = [hygiene, 0, 10].sort[1]
   end
   
   def clean?
