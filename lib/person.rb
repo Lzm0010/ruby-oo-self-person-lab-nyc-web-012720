@@ -9,4 +9,6 @@ class Person
     @happiness_points = 8
     @hygiene_points = 8
   end
+  
+  
 end
