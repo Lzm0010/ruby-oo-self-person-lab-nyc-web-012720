@@ -47,6 +47,7 @@ class Person
     elsif topic == "weather"
       @happiness_points += 1
       friend.happiness_points += 1
+    else
   end
 
 end
