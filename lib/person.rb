@@ -15,7 +15,7 @@ class Person
   end
   
   def happy?
-    @happiness_points >= 7
+    @happiness >= 7
   end
   
   def get_paid(salary)
