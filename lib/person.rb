@@ -10,7 +10,7 @@ class Person
     @hygiene = 8
   end
   
-  def
+  def happiness
   
   def clean?
     @hygiene >= 7
