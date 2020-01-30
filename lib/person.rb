@@ -30,4 +30,8 @@ class Person
   
   def work_out
   end
+
+  def call_friend(friend)
+
+
 end
