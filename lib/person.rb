@@ -18,5 +18,7 @@ class Person
     @happiness_points >= 7
   end
   
-  
+  def get_paid
+    
+  end
 end
