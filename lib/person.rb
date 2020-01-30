@@ -11,7 +11,7 @@ class Person
   end
   
   def happiness=(happiness)
-    
+    @happiness = h
   end
   
   def hygiene=(hygiene)
