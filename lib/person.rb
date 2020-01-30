@@ -38,7 +38,7 @@ class Person
   
   def work_out
     self.happiness += 2
-    @hygiene -= 3
+    selfhygiene -= 3
     "another one bites the dust"
   end
 
